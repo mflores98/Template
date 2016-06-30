@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import javax.xml.XMLConstants;
+
 public class MainActivity extends FragmentActivity implements View.OnClickListener{
 
     @Override
